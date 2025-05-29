@@ -16,3 +16,9 @@ main{
 footer{
     grid-area: my-footer;
 }
+.size-card{
+    width: 18rem;
+}
+#inicio, #categorias, #inscribete{
+    scroll-margin-top:100px ;
+}
